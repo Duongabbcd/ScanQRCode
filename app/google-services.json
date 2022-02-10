@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "68931418139",
+    "project_id": "scanqrcode-79a6d",
+    "storage_bucket": "scanqrcode-79a6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68931418139:android:2a776eee02db2c66c620be",
+        "android_client_info": {
+          "package_name": "gst.trainingcourse.scanqrcode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68931418139-p5g9gb8qpi54nt19844d27hdvkaf402o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "gst.trainingcourse.scanqrcode",
+            "certificate_hash": "e4559a1cb8e4978af6160acbe9f767d536401cc5"
+          }
+        },
+        {
+          "client_id": "68931418139-sdkh881dc1sbhr7h1b01sjm6lv2mm1ij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR5GHucbhwc5nKeyCMeddNZCME3HDGpMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68931418139-sdkh881dc1sbhr7h1b01sjm6lv2mm1ij.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
